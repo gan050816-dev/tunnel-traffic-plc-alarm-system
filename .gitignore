@@ -1,0 +1,13 @@
+Logs/
+TMP/
+*.log
+*.bak
+*.backup
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.grmpak
+.DS_Store
+Thumbs.db
